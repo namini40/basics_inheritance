@@ -1,5 +1,5 @@
 # basics_inheritance
-## code sample for methods and classes 2 - inheritance
+## code sample for methods and classes 2 - inheritance - session 7
 
 
 Videos: `youtube.com/c/NasserAmini` or `aparat.com/code.baz` 
